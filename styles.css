@@ -1,0 +1,157 @@
+.navbar-nav{
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.nav-item{
+    margin-right: 10px;
+}
+
+
+#homebox{
+
+    width: 100%;
+    height:550px;
+
+    color:black;
+    margin: auto;
+    margin-top: 70px;
+    background-color: white;
+    /* To Give bg color with opacity without affecting child elements use rgba */
+ 
+    
+    
+    padding:50px;
+    
+
+}
+
+.btn.learn{
+    color:white;
+    background-color:#198754;
+    width:314px;
+    height:48px;
+    margin-bottom:18px;
+    font-weight:600px;
+    border-radius: 25px;
+}
+
+.btn:hover{
+    background-color:#d7e9ff;
+    color:black;
+}
+
+#aboutbox{
+
+    width: 100%;
+    height:800px;
+
+    color:black;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #c4e0fe;
+    /* To Give bg color with opacity without affecting child elements use rgba */
+ 
+    
+    
+    padding:150px;
+    padding-top:100px;
+
+}
+
+
+
+
+.card{
+    background-color: #c4e0fe;
+    margin:auto;
+    padding-bottom: 50px;
+    width: 400px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+}
+
+.card-img-top{
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom:20px;
+
+    height:60%;
+    width:60%;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.btncard{
+    color:white;
+    background-color:#198754;
+    width:300px;
+    height:48px;
+    margin:auto;
+    margin-left:10%;
+    font-weight:600px;
+    border-radius: 25px;
+}
+
+#acadbox{
+
+    width: 100%;
+    height:900px;
+
+    color:black;
+    margin: auto;
+    margin-top: 50px;
+    background-color: white;
+    /* To Give bg color with opacity without affecting child elements use rgba */
+ 
+    
+    
+    padding:140px;
+    padding-top: 50px;
+  
+
+}
+
+thead{
+    background-color: #198754;
+    color:white;
+}
+
+.card.rs{
+    background-color:#323639;
+    margin:auto;
+    padding-bottom: 50px;
+    width: 800px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+}
+
+#pdf{
+    margin:auto;
+    margin-top:50px;
+}
+
+.card-title.rs{
+    text-align: center;
+}
+
+.card-text.rs{
+    text-align: center;
+}
+
+#btnsub{
+    
+    background-color: #198754;
+    width:314px;
+    height:48px;
+}
