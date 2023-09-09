@@ -7,6 +7,22 @@
     margin-right: 10px;
 }
 
+.btn{
+    color:white;
+    background-color:#198754;
+    width:314px;
+    height:48px;
+    margin-bottom:18px;
+    font-weight:600px;
+    border-radius: 25px;
+}
+
+.btn:hover{
+    background-color:#d7e9ff;
+    color:black;
+}
+
+
 
 #homebox{
 
@@ -36,7 +52,7 @@
     border-radius: 25px;
 }
 
-.btn:hover{
+.btn.learn:hover{
     background-color:#d7e9ff;
     color:black;
 }
