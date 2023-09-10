@@ -230,3 +230,73 @@ tr,td{
     background-color:#d7e9ff;
     color:black;
 }
+
+#gallerybox{
+
+    background-image: url("https://img.freepik.com/premium-photo/abstract-blurred-sky-colorful_40299-22.jpg");
+    background-size: cover;
+
+    width: 100%;
+    height:auto;
+
+    color:white;
+    margin: auto;
+    
+    background-color: #c4e0fe;
+    
+
+    padding:60px;
+    padding-top:90px;
+
+}
+
+.card.gal{
+    background-color:#243238;
+    margin:auto;
+    padding-bottom: 50px;
+    height:400px;
+    width: 450px;
+    border-style: solid;
+    border-width: 10px;
+    border-color:black;
+    border-radius: 15px;
+
+}
+
+.card-img-top.gal{
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom:20px;
+
+    border-radius: 5px;
+    border-width: 20px;
+    border-color: black;
+
+
+    height:235px;
+    width:310px;
+}
+
+.card-title.gal{
+    text-align: center;
+}
+
+.card-text.gal{
+    text-align: center;
+}
+
+
+
+
+
+
+#youtube{
+
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 25px;
+    width:100%;
+    height:400px;
+    margin:auto;
+}
