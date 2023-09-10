@@ -1,3 +1,5 @@
+
+
 .navbar-nav{
     font-weight: 400;
     font-size: 22px;
@@ -5,6 +7,11 @@
 
 .nav-item{
     margin-right: 10px;
+}
+
+#intro{
+    font-size: 17px;
+    margin-bottom:60px;
 }
 
 .btn{
@@ -23,21 +30,26 @@
 }
 
 
-
+#home{
+    background-image: url("https://wallpapercave.com/wp/wp4465057.jpg");
+}
 #homebox{
 
     width: 100%;
-    height:550px;
+    height:780px;
 
     color:black;
     margin: auto;
-    margin-top: 70px;
+    
     background-color: white;
+    background-image: url("https://wallpapercave.com/wp/wp4465057.jpg");
+
     /* To Give bg color with opacity without affecting child elements use rgba */
  
     
     
     padding:50px;
+    padding-top:120px;
     
 
 }
@@ -64,8 +76,9 @@
 
     color:black;
     margin: auto;
-    margin-top: 50px;
+    
     background-color: #c4e0fe;
+    background-image: url("images/aboutback.jpg");
     /* To Give bg color with opacity without affecting child elements use rgba */
  
     
@@ -79,13 +92,14 @@
 
 
 .card{
-    background-color: #c4e0fe;
+    background-color:#c0d6f2;
     margin:auto;
     padding-bottom: 50px;
     width: 400px;
     border-style: solid;
     border-width: 3px;
     border-color: black;
+    border-radius: 25px;
 
 }
 
@@ -108,36 +122,44 @@
 
 .btncard{
     color:white;
-    background-color:#198754;
+    background-color:#8ca4c3;
     width:300px;
     height:48px;
     margin:auto;
     margin-left:10%;
     font-weight:600px;
     border-radius: 25px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 
 #acadbox{
 
+    
     width: 100%;
-    height:900px;
+    height:auto;
 
-    color:black;
+    color:white;
     margin: auto;
-    margin-top: 50px;
-    background-color: white;
-    /* To Give bg color with opacity without affecting child elements use rgba */
- 
-    
-    
+    background-color: #323639;
+    background-image: url("https://slidechef.net/wp-content/uploads/2021/11/School-Chalkboard-Design.jpg");
+    background-size: cover;
+
     padding:140px;
-    padding-top: 50px;
+    padding-top: 100px;
   
 
 }
 
+
+
 thead{
     background-color: #198754;
+    color:white;
+}
+
+tr,td{
     color:white;
 }
 
@@ -170,4 +192,41 @@ thead{
     background-color: #198754;
     width:314px;
     height:48px;
+    border-width: 0px;
+    box-shadow: none
+}
+
+#btnsub:focus{
+    outline:0;
+    border: none;
+    
+    box-shadow: none
+
+}
+
+#btnsub:active {
+    outline: none;
+    border: none;
+    box-shadow: none
+
+}
+
+#collapsebtn{
+    color:white;
+    background-color:#198754;
+    width:314px;
+    height:48px;
+    margin:auto;
+    margin-bottom:18px;
+    font-weight:600px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    
+}
+
+#collapsebtn:hover{
+    background-color:#d7e9ff;
+    color:black;
 }
