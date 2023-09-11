@@ -8,6 +8,10 @@ Home
 ![image](https://github.com/Swebi/school-website-mlsa/assets/82446436/1b9dd8e8-8989-4049-81b7-52866dbb99c8)
 
 
+About
+![image](https://github.com/Swebi/school-website-mlsa/assets/82446436/bdb547ba-3e01-41cc-b039-734fc481b959)
+
+
 
 Gallery
 ![image](https://github.com/Swebi/school-website-mlsa/assets/82446436/5d47a456-7abc-47cd-92cc-d262e19856e0)
