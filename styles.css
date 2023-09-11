@@ -247,44 +247,19 @@ tr,td{
 
     padding:60px;
     padding-top:90px;
+    padding-bottom: 100px;
 
 }
 
-.card.gal{
-    background-color:#243238;
-    margin:auto;
-    padding-bottom: 50px;
+.galimg{
+
     height:400px;
-    width: 450px;
+    width:650px;
     border-style: solid;
-    border-width: 10px;
-    border-color:black;
-    border-radius: 15px;
-
-}
-
-.card-img-top.gal{
-    margin:auto;
-    margin-top: 50px;
-    margin-bottom:20px;
-
-    border-radius: 5px;
-    border-width: 20px;
+    border-width: 5px;
     border-color: black;
-
-
-    height:235px;
-    width:310px;
+    border-radius: 25px;
 }
-
-.card-title.gal{
-    text-align: center;
-}
-
-.card-text.gal{
-    text-align: center;
-}
-
 
 
 
@@ -300,3 +275,107 @@ tr,td{
     height:400px;
     margin:auto;
 }
+
+#contactbox{
+
+    width: 100%;
+    height:auto;
+
+    color:black;
+    margin: auto;
+    
+    background-color: #c4e0fe;
+    background-image: url("https://img.freepik.com/free-vector/gradient-background-green-tones_23-2148374530.jpg");
+    background-size: cover;
+
+ 
+    
+    
+    padding:120px;
+    padding-top:100px;
+
+}
+
+
+
+
+.card.contact{
+    background-color:#a1ffd8;
+    margin:auto;
+    padding-bottom: 30px;
+    width: 450px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 25px;
+
+}
+
+.card-img-top.contact{
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom:20px;
+
+    height:40%;
+    width:40%;
+}
+
+.card-title.contact{
+    text-align: center;
+}
+
+
+
+.btncard.contact{
+    color:white;
+    background-color:#017E7A;
+    width:320px;
+    height:48px;
+    text-align: center;
+    margin:auto;
+    font-weight:600px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+
+#map{
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: black;
+
+}
+
+#email{
+    width:320px;
+    height:55px;
+    
+}
+
+#name{
+    width:320px;
+    height:55px;   
+}
+
+#phone{
+    width:320px;
+    height:55px;
+    
+}
+
+#grade{
+    width:320px;
+    height:55px;
+    
+}
+
+#comments{
+    width:320px;
+    height:115px;
+    
+
+}
+
+
