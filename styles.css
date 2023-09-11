@@ -53,6 +53,10 @@
     
 
 }
+#mission{
+    font-family: Oswald;
+    font-size: 65px;
+}
 
 .btn.learn{
     color:white;
@@ -348,28 +352,13 @@ tr,td{
 
 }
 
-#email{
+#email,#name,#phone,#grade{
     width:320px;
     height:55px;
     
 }
 
-#name{
-    width:320px;
-    height:55px;   
-}
 
-#phone{
-    width:320px;
-    height:55px;
-    
-}
-
-#grade{
-    width:320px;
-    height:55px;
-    
-}
 
 #comments{
     width:320px;
@@ -379,3 +368,49 @@ tr,td{
 }
 
 
+#announcebox{
+
+    
+    width: 100%;
+    height:auto;
+
+    color:black;
+    margin: auto;
+    background-color: #323639;
+    background-image: url("https://img.freepik.com/free-photo/creative-flat-lay-photo-workspace-desk_7861-950.jpg?t=st=1694454729~exp=1694455329~hmac=17a3709377e5ff4089babcb21b76ac22348469ff0da49865531ca1c201cd4874");
+    background-size: cover;
+
+    padding:140px;
+    padding-top: 100px;
+  
+
+}
+
+.card.announce{
+    background-color:white;
+    color:black;
+    padding-bottom: 30px;
+    width: 550px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 25px;
+
+}
+
+.card-img-top.announce{
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom:20px;
+
+    height:40%;
+    width:40%;
+}
+
+.card-title.announce{
+    text-align: center;
+}
+
+#list{
+    font-size: 25px;
+}
