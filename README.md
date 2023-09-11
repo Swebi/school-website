@@ -1,9 +1,12 @@
 # school-website-mlsa
 A school website made using HTML, CSS, Bootstrap, JavaScript 
+
+
 Link - https://swebi.github.io/school-website-mlsa/
 
 Home
-![image](https://github.com/Swebi/school-website-mlsa/assets/82446436/475d6acd-2833-4dc9-8c7c-46accbc932cd)
+![image](https://github.com/Swebi/school-website-mlsa/assets/82446436/1b9dd8e8-8989-4049-81b7-52866dbb99c8)
+
 
 
 Gallery
